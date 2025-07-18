@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/157791200?v=4" alt="Anushree Kamath" width="150" height="150" style="border-radius: 50%; border: 4px solid #f6f8fa;">
-  <h1>Hi there, I'm Anushree Kamath 👋</h1>
-  <p>Undergraduate Computer Engineering student passionate about solving real-world problems through technology!</p>
+  <h1>Hello! This is Anushree Kamath ⭐</h1>
+  <p>An Undergraduate Computer Engineering student passionate about solving real-world problems through technology!</p>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-- 📍 Computer Engineering Undergraduate at PICT.
-- ✨ Passionate about solving real-world problems with technology.
-- 💻 Actively solving problems with C++ and DSA.
-- 💡 Exploring new technologies and building impactful solutions.
-- 👯‍♀️ Kathak dancer with Visharad Pratham degree & 10+ years experience.
-- 🇩🇪 German (A1) certified from Goethe Institut, Pune (100% score).
+- Computer Engineering Undergraduate at PICT, Pune.
+- Enthusiastic Web Developer (using MERN Stack).
+- Active problem solver with C++ and DSA.
+- Passionate about solving real-world problems with technology.
+- Exploring new technologies and building impactful solutions.
+- Kathak dancer with 10+ years experience.
+- German (A1) certified from Goethe Institut, Pune.
 
 ---
 
