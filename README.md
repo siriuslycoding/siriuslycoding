@@ -8,12 +8,12 @@
 
 ### 🚀 About Me
 
-- [cite_start]📍 Computer Engineering Undergraduate at PICT[cite: 2].
+- 📍 Computer Engineering Undergraduate at PICT.
 - ✨ Passionate about solving real-world problems with technology.
-- [cite_start]💻 Actively solving problems with C++ and DSA[cite: 22].
+- 💻 Actively solving problems with C++ and DSA.
 - 💡 Exploring new technologies and building impactful solutions.
-- [cite_start]👯‍♀️ Kathak dancer with Visharad Pratham degree & 10+ years experience[cite: 23, 55].
-- [cite_start]🇩🇪 German (A1) certified from Goethe Institut, Pune (100% score)[cite: 24, 54].
+- 👯‍♀️ Kathak dancer with Visharad Pratham degree & 10+ years experience.
+- 🇩🇪 German (A1) certified from Goethe Institut, Pune (100% score).
 
 ---
 
@@ -25,16 +25,29 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/German-black?style=for-the-badge&logo=goetheinstitut&logoColor=white" alt="German" />
+  <img src="https://img.shields.io/badge/German-000000?style=for-the-badge&logo=goetheinstitut&logoColor=white" alt="German" />
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Data%20Structures-orange?style=for-the-badge&logo=apachespark&logoColor=white" alt="Data Structures" />
-  <img src="https://img.shields.io/badge/Algorithms-red?style=for-the-badge&logo=codementor&logoColor=white" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/Data%20Structures-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/Algorithms-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Algorithms" />
 </p>
+
+---
+
+### 🌟 Featured Projects
+
+* **DocuVault - Digital Library**
+    * Developed a semantic digital library platform leveraging MiniLM embeddings and Mistral-based reasoning for intelligent document retrieval and contextual responses. Optimized for domain-based access, efficient search, and dynamic user interactions.
+* **Telemedicine Appointment Scheduler**
+    * Designed an intelligent scheduling system that optimizes telemedicine appointments based on patient urgency, doctor availability, and time zone differences. A finalist at Techfiesta Hackathon 2025.
+    * **Live Demo:** [https://telemedx.netlify.app/](https://telemedx.netlify.app/)
+* **Diabetes Prediction Model**
+    * Leveraged Machine Learning algorithms integrated with a web platform to provide accurate predictions based on personal and medical data. Winner of TechRush Hackathon 2024.
+    * **Live Demo:** [https://diabetespredictor-mrci.onrender.com/](https://diabetespredictor-mrci.onrender.com/)
 
 ---
 
@@ -49,11 +62,12 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siriuslycoding&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Anushree's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriuslycoding&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://leetcode.com/siriuslycoding/" target="_blank">
+    <img src="https://leetcard.yuni.app/siriuslycoding?theme=dark&font=Baloo+Chettan+2" alt="Anushree's LeetCode Stats" />
+  </a>
   <img src="https://github-profile-trophy.vercel.app/?username=siriuslycoding&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
@@ -69,5 +83,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
