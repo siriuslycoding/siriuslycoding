@@ -62,13 +62,13 @@
 
 ---
 
-### 📊 Coding Stats
+### 📈 Coding Stats
 
 <p align="center">
   <a href="https://leetcode.com/siriuslycoding/" target="_blank">
-    <img src="https://leetcard.yuni.app/siriuslycoding?theme=dark&font=Baloo+Chettan+2" alt="Anushree's LeetCode Stats" />
+    <img src="https://leetcode-badge.vercel.app/api/siriuslycoding?theme=dark" alt="Anushree's LeetCode Stats" />
   </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=siriuslycoding&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriuslycoding&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
