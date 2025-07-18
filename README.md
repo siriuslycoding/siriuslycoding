@@ -6,56 +6,68 @@
 
 ---
 
-### 🌟 About Me
+### 🚀 About Me
 
-[cite_start]I'm a Computer Engineering undergraduate student at Pune Institute of Computer Technology[cite: 2]. [cite_start]I'm deeply passionate about leveraging technology to solve real-world problems[cite: 21]. My interests lie in exploring new technologies and building impactful solutions.
-
-[cite_start]I actively work with C++ and Data Structures & Algorithms, and enjoy solving problems online[cite: 22, 42]. [cite_start]I've also gained practical experience through hackathons, contributing to frontend development for a Telemedicine Scheduler and a Diabetes Prediction Model[cite: 21, 31, 35].
-
-[cite_start]Beyond tech, I'm a trained Kathak dancer with a Visharad Pratham degree and over 10 years of experience, achieving first class with distinction[cite: 23, 55]. [cite_start]I've also learned German (A1) from Goethe Institut, Pune, scoring 100%[cite: 24, 49, 54].
-
----
-
-### 💻 Skills & Technologies
-
-| Category      | Skills                                                                   |
-| :------------ | :----------------------------------------------------------------------- |
-| **Languages** | [cite_start]C++ [cite: 42][cite_start], JavaScript [cite: 46][cite_start], Python [cite: 47][cite_start], HTML [cite: 44][cite_start], CSS [cite: 45][cite_start], German [cite: 49] |
-| **Frameworks/Libs** | [cite_start]React.js [cite: 43]                                                            |
-| **Tools/Other** | [cite_start]Git, PostgreSQL [cite: 30][cite_start], Adobe Photoshop [cite: 48][cite_start], Data Structures & Algorithms [cite: 22] |
+- [cite_start]📍 Computer Engineering Undergraduate at PICT[cite: 2].
+- ✨ Passionate about solving real-world problems with technology.
+- [cite_start]💻 Actively solving problems with C++ and DSA[cite: 22].
+- 💡 Exploring new technologies and building impactful solutions.
+- [cite_start]👯‍♀️ Kathak dancer with Visharad Pratham degree & 10+ years experience[cite: 23, 55].
+- [cite_start]🇩🇪 German (A1) certified from Goethe Institut, Pune (100% score)[cite: 24, 54].
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Skills & Technologies
 
-Here are a few projects I'm particularly proud of:
-
-* [cite_start]**DocuVault - Digital Library** [cite: 26]
-    * [cite_start]Developed a semantic digital library platform that enables intelligent document retrieval and contextual responses using MiniLM embeddings and Mistral-based reasoning[cite: 28]. [cite_start]Optimized for domain-based access, efficient search, and dynamic user interactions[cite: 29].
-* [cite_start]**Telemedicine Appointment Scheduler** [cite: 31]
-    * [cite_start]Designed an intelligent scheduling system that optimizes telemedicine appointments based on patient urgency, doctor availability, and time zone differences[cite: 32]. [cite_start]A finalist at Techfiesta Hackathon 2025[cite: 31, 52].
-    * [cite_start]**Live Demo:** [https://telemedx.netlify.app/](https://telemedx.netlify.app/) [cite: 34]
-* [cite_start]**Diabetes Prediction Model** [cite: 35]
-    * [cite_start]Leveraged Machine Learning algorithms integrated with a web platform to provide accurate predictions based on personal and medical data, aiming to predict diabetes from home[cite: 38, 39]. [cite_start]Winner of TechRush Hackathon 2024[cite: 36, 53].
-    * [cite_start]**Live Demo:** [https://diabetespredictor-mrci.onrender.com/](https://diabetespredictor-mrci.onrender.com/) [cite: 41]
-
----
-
-### ✨ Achievements
-
-* [cite_start]PICT annual hackathon Techfiesta 2025 finalist [cite: 52]
-* [cite_start]PICT IEEE annual hackathon TechRush AIML winner [cite: 53]
-* [cite_start]Goethe Zertifikat A1 German certification with 100% score [cite: 54]
-* [cite_start]ABGMV Visharad Pratham degree in Kathak - First class with distinction [cite: 55]
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/German-black?style=for-the-badge&logo=goetheinstitut&logoColor=white" alt="German" />
+  <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Data%20Structures-orange?style=for-the-badge&logo=apachespark&logoColor=white" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/Algorithms-red?style=for-the-badge&logo=codementor&logoColor=white" alt="Algorithms" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements & Recognition
 
-(You can add these sections below. You'll need to use specific tools for them.)
+<p align="center">
+  <img src="https://img.shields.io/badge/Hackathon%20Finalist-Techfiesta%202025-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Techfiesta 2025 Finalist" />
+  <img src="https://img.shields.io/badge/Hackathon%20Winner-TechRush%20AIML%202024-green?style=for-the-badge&logo=github&logoColor=white" alt="TechRush AIML 2024 Winner" />
+  <img src="https://img.shields.io/badge/Goethe%20Zertifikat%20A1-100%25%20Score-red?style=for-the-badge&logo=goetheinstitut&logoColor=white" alt="Goethe Zertifikat A1" />
+  <img src="https://img.shields.io/badge/Kathak%20Visharad%20Pratham-Distinction-purple?style=for-the-badge&logo=apacheopenoffice&logoColor=white" alt="Kathak Visharad Pratham" />
+</p>
 
-```markdown
-[![Anushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siriuslycoding&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuragrana/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siriuslycoding&layout=compact&theme=radical&hide_border=true)](https://github.com/anuragrana/github-readme-stats)
+---
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=siriuslycoding&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siriuslycoding&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Anushree's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriuslycoding&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=siriuslycoding&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anushreekamath04/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anushreekamath1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
