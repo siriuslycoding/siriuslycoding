@@ -1,85 +1,226 @@
 <div align="center">
-  <h1>Hello! This is Anushree Kamath ⭐</h1>
-  <p>An Undergraduate Computer Engineering student passionate about solving real-world problems through technology!</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,8b5cf6,a78bfa&height=200&section=header&text=Anushree%20Kamath&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=58&descColor=e0e7ff&animation=fadeIn" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=B.E.+Computer+Engineering+%40+PICT+%7C+CGPA+9.548;Software+Engineer+Intern+%40+River+Learning;Shipping+production-grade+systems+since+2025;100%25+in+German+%C2%B7+Kathak+Visharad+%C2%B7+SIH+Finalist)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushreekamath04/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushreekamath1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siriuslycoding)
+
 </div>
 
----
-
-### 🚀 About Me
-
-- Computer Engineering Undergraduate at PICT, Pune.
-- Enthusiastic Web Developer (using MERN Stack).
-- Active problem solver with C++ and DSA.
-- Passionate about solving real-world problems with technology.
-- Exploring new technologies and building impactful solutions.
-- Kathak dancer with 10+ years experience.
-- German (A1) certified from Goethe Institut, Pune.
+<br/>
 
 ---
 
-### 🛠️ Skills & Technologies
+## 🧬 `whoami`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/German-000000?style=for-the-badge&logo=goetheinstitut&logoColor=white" alt="German" />
-  <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Data%20Structures-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Data Structures" />
-  <img src="https://img.shields.io/badge/Algorithms-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Algorithms" />
-</p>
+```yaml
+╔─────────────────────────────────────────────────────────╗
+  name        : Anushree Kamath
+  role        : SWE Intern @ River Learning | CS Undergrad @ PICT
+  location    : Pune, India
+  cgpa        : 9.548 / 10.0
+  languages   : [ C++, Java, Python, SQL ]
+  currently   : Building production-grade systems that actually ship
+  also_i      : Scored 100% in German A1 · Hold Kathak Visharad
+╚─────────────────────────────────────────────────────────╝
+```
+
+<br/>
 
 ---
 
-### 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-* **DocuVault - Digital Library**
-    * Developed a semantic digital library platform leveraging MiniLM embeddings and Mistral-based reasoning for intelligent document retrieval and contextual responses. Optimized for domain-based access, efficient search, and dynamic user interactions.
-* **Telemedicine Appointment Scheduler**
-    * Designed an intelligent scheduling system that optimizes telemedicine appointments based on patient urgency, doctor availability, and time zone differences. A finalist at Techfiesta Hackathon 2025.
-    * **Live Demo:** [https://telemedx.netlify.app/](https://telemedx.netlify.app/)
-* **Diabetes Prediction Model**
-    * Leveraged Machine Learning algorithms integrated with a web platform to provide accurate predictions based on personal and medical data. Winner of TechRush Hackathon 2024.
-    * **Live Demo:** [https://diabetespredictor-mrci.onrender.com/](https://diabetespredictor-mrci.onrender.com/)
+<div align="center">
 
----
+### Languages
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🏆 Achievements & Recognition
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hackathon%20Finalist-Techfiesta%202025-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Techfiesta 2025 Finalist" />
-  <img src="https://img.shields.io/badge/Hackathon%20Winner-TechRush%20AIML%202024-green?style=for-the-badge&logo=github&logoColor=white" alt="TechRush AIML 2024 Winner" />
-  <img src="https://img.shields.io/badge/Goethe%20Zertifikat%20A1-100%25%20Score-red?style=for-the-badge&logo=goetheinstitut&logoColor=white" alt="Goethe Zertifikat A1" />
-  <img src="https://img.shields.io/badge/Kathak%20Visharad%20Pratham-Distinction-purple?style=for-the-badge&logo=apacheopenoffice&logoColor=white" alt="Kathak Visharad Pratham" />
-</p>
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+</div>
 
-### 📈 Coding Stats
-
-<p align="center">
-  <a href="https://leetcode.com/siriuslycoding/" target="_blank">
-    <img src="https://leetcode-badge.vercel.app/api/siriuslycoding?theme=dark" alt="Anushree's LeetCode Stats" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriuslycoding&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<br/>
 
 ---
 
-### 🌐 Let's Connect!
+## 💼 Experience
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anushreekamath04/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:anushreekamath1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### 🏢 Software Engineer Intern — River Learning &nbsp;&nbsp; `Jan 2026 – Present`
+
+> Building and shipping real products used by real businesses.
+
+| Impact | What I built |
+|--------|-------------|
+| **↓ 50% cloud costs** | Migrated two live apps from VM-hosting to containerized services + cloud-managed DBs |
+| **50+ active users** | Conditional survey form for a Company Secretary Firm — adapts questions per user profile, auto-delivers results |
+| **30+ employees** | Role-based appraisal platform for a Danish multinational with multi-level review workflows |
+
+<br/>
+
+---
+
+## 🚀 Projects
+
+<details>
+<summary><b>🏗&nbsp; Enterprise Appraisal System</b> &nbsp;·&nbsp; <code>Next.js · NestJS · PostgreSQL · GCP</code> &nbsp;·&nbsp; Mar–Apr 2026</summary>
+
+<br/>
+
+> Full-stack enterprise appraisal platform — built end to end, deployed to production.
+
+```
+✦ Multi-level review workflows with circular hierarchy detection
+✦ Role-gated reporting + bulk score aggregation (N+1 queries eliminated)
+✦ Cycle visibility controls + print-optimized A4 reports
+✦ Deployed on GCP Cloud Run · Cloud SQL · Secret Manager · Vercel
+✦ CI/CD via GitHub Actions with least-privilege IAM service accounts
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/siriuslycoding)
+[![Live](https://img.shields.io/badge/Live-Website-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://github.com/siriuslycoding)
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>⚡&nbsp; Incident Management System</b> &nbsp;·&nbsp; <code>React · Fastify · PostgreSQL · MongoDB · Redis</code> &nbsp;·&nbsp; May 2026</summary>
+
+<br/>
+
+> Production-grade IMS built for serious throughput. Stress tested. Zero crashes.
+
+```
+Performance
+──────────────────────────────────────────────────
+  Throughput     4,200+ signals / sec
+  Avg latency    23 ms
+  p99 rejection  5 ms
+  Under stress   Zero crashes
+
+Architecture
+──────────────────────────────────────────────────
+  ✦ WAL-backed crash-safe ingestion + bounded backpressure
+  ✦ Transactional Outbox + SHA-256 incident correlation
+  ✦ Signal fingerprinting + blast-radius inference
+  ✦ Weighted MTTR analytics + cache-first APIs
+  ✦ Real-time dashboard with resilient rate limiting
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/siriuslycoding)
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🚂&nbsp; AI Train Scheduling — Kochi Metro Rail Ltd.</b> &nbsp;·&nbsp; <code>Flask · FastAPI · React · PostgreSQL · pandas</code> &nbsp;·&nbsp; Sep 2025</summary>
+
+<br/>
+
+> Submitted at Smart India Hackathon 2025 — reached the Pre-Final National Round.
+
+```
+✦ Hybrid AI + Operations Research engine for explainable train induction planning
+✦ Predictive maintenance, conflict detection, real-time re-optimization
+✦ 5+ REST API data sources unified into one decision-support system
+✦ 40+ trainsets across multiple depots (60% fleet expansion supported)
+✦ Replaced manual spreadsheet scheduling with live interactive dashboards
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/siriuslycoding)
+
+</details>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siriuslycoding&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siriuslycoding&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=siriuslycoding&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+---
+
+## 🏅 Achievements & Beyond
+
+<div align="center">
+
+| | Achievement |
+|:---:|-------------|
+| 🇮🇳 | **Smart India Hackathon 2025** — Pre-Final National Round |
+| 🥇 | **Techfiesta 2025** — Finalist |
+| 🌐 | **PICT IEEE Student Branch** — WebMaster · NTH Event Head · PING Magazine Head |
+| 🎯 | **Network Treasure Hunt** — Headed 24-hour online event with 1000+ participants |
+| 🇩🇪 | **Goethe Zertifikat A1** — 100% score |
+| 💃 | **Kathak Visharad Pratham** — First Class with Distinction |
+
+</div>
+
+<br/>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Score | Year |
+|--------|------------|:-----:|:----:|
+| B.E. Computer Engineering | Pune Institute of Computer Technology | **9.548 CGPA** | 2023–2027 |
+| Higher Secondary (HSC) | Namo Rims Junior College | **85.00%** | 2021–2023 |
+| Secondary (CBSE) | City International School | **92.00%** | 2021 |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,8b5cf6,a78bfa&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+*Ship it. Then make it better.*
+
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=siriuslycoding&color=6366f1&style=flat-square&label=profile+views)
+
+</div>
