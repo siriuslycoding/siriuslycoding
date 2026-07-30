@@ -99,8 +99,8 @@
 ✦ CI/CD via GitHub Actions with least-privilege IAM service accounts
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/siriuslycoding)
-[![Live](https://img.shields.io/badge/Live-Website-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://github.com/siriuslycoding)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/siriuslycoding/appraisal-system)
+[![Live](https://img.shields.io/badge/Live-Website-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://appraisal.riverlearning.in)
 
 </details>
 
@@ -130,7 +130,7 @@ Architecture
   ✦ Real-time dashboard with resilient rate limiting
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/siriuslycoding)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/siriuslycoding/incident-management-system)
 
 </details>
 
@@ -151,7 +151,7 @@ Architecture
 ✦ Replaced manual spreadsheet scheduling with live interactive dashboards
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/siriuslycoding)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-%23121011?style=flat-square&logo=github)](https://github.com/siriuslycoding/YatraManthan)
 
 </details>
 
