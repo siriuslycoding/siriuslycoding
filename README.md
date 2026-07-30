@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff,f5f5f5,eeeeee&height=200&section=header&text=Anushree%20Kamath&fontSize=52&fontColor=000000&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=58&descColor=333333&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3333ff&height=200&section=header&text=Anushree%20Kamath&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=58&descColor=cccccc&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=B.E.+Computer+Engineering+%40+PICT+%7C+CGPA+9.548;Software+Engineer+Intern+%40+River+Learning;Shipping+production-grade+systems+since+2025;100%25+in+German+%C2%B7+Kathak+Visharad+%C2%B7+SIH+Finalist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=cccccc&center=true&vCenter=true&width=600&lines=B.E.+Computer+Engineering+%40+PICT+%7C+CGPA+9.548;Software+Engineer+Intern+%40+River+Learning;Shipping+production-grade+systems+since+2025;100%25+in+German+%C2%B7+Kathak+Visharad+%C2%B7+SIH+Finalist)](https://git.io/typing-svg)
 
 <br/>
 
@@ -216,7 +216,7 @@ Architecture
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1,8b5cf6,a78bfa&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3333ff&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 *Ship it. Then make it better.*
 
